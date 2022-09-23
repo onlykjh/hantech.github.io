@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#03 HybridMail(사내 메일 App)"
+title: "#HybridMail(사내 메일 App)"
 summary: 사내 매일 App 구현
 featured-img: card_hybridmail
 comments: false
@@ -9,13 +9,13 @@ categories: []
 
 <img src="../assets/img/posts/mail01.jpeg" width="450px" height="300px" title="HomepageWeb" /><br/>
 
-# HybridMail(사내 메일 App)
+<!-- # HybridMail(사내 메일) -->
 
-- 회사명/직책 : UNOMIC / 연구원
-- 기간 : 202003 ~ 202006 (3개월)
-- 사용언어 : HTML, JavaScript, Jquery, Css
-- 성과 :
-- 역할 : 웹 디자인, Front-End 작업
+- ### 회사명/직책 : UNOMIC / 연구원
+- ### 주요 업무 : 1.Mail 서버 테스트 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.api 개발 및 수정 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.Mail chatting 화면 구현 및 api 개발<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.CSS media-query를 이용한 반응형 웹 구현
+- ### 투입 인원 : 3명<br>
+- ### 역할 : Back-End, Front-End
+<img src="../assets/img/posts/mail_list.jpeg" width="450px" title="HomepageWeb"/><br/>
 
 <!-- ---
 layout: post

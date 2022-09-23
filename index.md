@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: 윤희의 블로그
+title: 한의 블로그
 ---
